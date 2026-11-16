@@ -1,0 +1,26 @@
+[33mcommit 32118172dbfc43e2b8e7c8eb612dde9e22db1708[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Рыжов Николай <arbyzov.00@gmail.com>
+Date:   Sun Nov 15 19:51:56 2026 +0300
+
+    .gitignore: исключены файлы журналов
+
+ .gitignore | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit fe4dcde3143149a5ae36058ed8c83a39247bf547[m
+Author: Рыжов Николай <arbyzov.00@gmail.com>
+Date:   Sun Nov 15 19:51:32 2026 +0300
+
+    README: добавлены сведения об авторе
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 8c2528c2626a3f2c1fa221154f9779038bf0a35b[m
+Author: Рыжов Николай <arbyzov.00@gmail.com>
+Date:   Sun Nov 15 19:37:33 2026 +0300
+
+    Создан README проекта «Домашняя библиотека»
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
